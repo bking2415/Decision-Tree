@@ -1,5 +1,5 @@
 # Decision-Tree
-Implemented Decision Tree algorithm to predict outcomes
+Implemented Decision Tree algorithm using GINI Index and Information Gain to predict outcomes in R
 
 ## Instructions
 To run `decisionTree.R`:
