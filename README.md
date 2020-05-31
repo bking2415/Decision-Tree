@@ -18,7 +18,7 @@ The 2 approaches are:
      
 ## Results
 `GINI Output:`
-![GINI Output](	DecisionTreeGINI.pdf)
+![GINI Output](gini.png)
 
 `Information Gain Output:`
-![Information Gain Output](DecisionTreeIG.pdf)
+![Information Gain Output](infoGain.png)
